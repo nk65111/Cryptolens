@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "NFTs",
+  "sourceName": "contracts/NFTs.sol",
+  "abi": [
+    {
+      "wait": true
+    }
+  ]
+}
